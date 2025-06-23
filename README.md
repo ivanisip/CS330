@@ -14,7 +14,7 @@ This structured approach helped me stay organized and efficient. I can apply thi
 
 This project helped me improve my development skills by teaching me to build a program step by step. I used new strategies such as working with transformation matrices, camera navigation, lighting, and texture mapping. I also learned to debug issues as they came up and update my code through several iterations.
 
-Iteration was key to my success. I made small improvements with each milestone—adding more shapes, improving lighting, adding textures, and eventually adding mouse and keyboard interactions. I learned how to test my code, take feedback, and build on my previous work. By the end of the project, I had a fully working 3D scene that looked and behaved the way I imagined.
+Iteration was key to my success. I made small improvements with each milestone-adding more shapes, improving lighting, adding textures, and eventually adding mouse and keyboard interactions. I learned how to test my code, take feedback, and build on my previous work. By the end of the project, I had a fully working 3D scene that looked and behaved the way I imagined.
 
 Overall, my development approach has evolved. I now think more about structure and readability, and I’m more confident in applying best practices like commenting code and keeping things modular.
 
